@@ -7,7 +7,7 @@
     },
 
     "record": {
-        "TXT": "vc-domain-verify=jun.is-cool.dev,00f3f1f57abe08e2c676",
+        "TXT": ["vc-domain-verify=jun.is-cool.dev,00f3f1f57abe08e2c676"],
         "CNAME": "cname.vercel-dns.com"
     },
 
